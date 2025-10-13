@@ -1,29 +1,31 @@
 # 👋 Hi, I'm Syed Ibrahim Ahmed  
-🎓 Student @ Iqra University | 🧠 Aspiring AI Engineer  
+🎓 Student @ Iqra University | 🚀 AI Engineer in Progress  
 
 I’m passionate about **building intelligent systems** that solve real-world problems using **Artificial Intelligence**, **Machine Learning**, and **Data Science**.  
 Driven by curiosity and a hunger for innovation. I’m currently focused on becoming a **AI Engineer** — from Python to Generative AI.
 
 ---
 
-### 🚀 What I'm Working On
-- 🤖 *Urdu-PDF-Summarizer-Q-A-Chatbot* — An Urdu PDF assistant that summarizes and answers questions using NLP.  
-- 📊 Learning *Machine Learning* techniques with scikit-learn and pandas.  
-- 🌐 Exploring *AI model deployment* using Flask and Hugging Face.
+## 🚀 Current Projects
+
+### 🧠 [*Urdu-PDF-Summarizer-Q-A-Chatbot*](https://github.com/syedibrahimdev/Urdu-PDF-Summarizer-Q-A-Chatbot)
+An intelligent Urdu PDF assistant that can *summarize documents* and *answer contextual questions* using NLP and Transformer-based models.  
+*Tech:* Python, LangChain, Transformers, Flask, Hugging Face  
+> Goal: To make AI tools accessible for Urdu-speaking learners.
 
 ---
 
-### 🧠 Current Learning Path
+## 🧩 Learning Path
 - Python for AI and Data Science  
 - Machine Learning Algorithms & Model Evaluation  
-- Deep Learning and Neural Networks  
-- Data Visualization & Preprocessing  
-- Generative AI & LLMs (LangChain, Transformers)
+- Deep Learning (ANNs, CNNs, RNNs)  
+- Data Preprocessing & Visualization  
+- Generative AI (LLMs, LangChain, Prompt Engineering)
 
 ---
 
-### 🛠️ Tech Stack
-Python • NumPy • Pandas • scikit-learn • Flask • LangChain • Hugging Face • Matplotlib
+### ⚙️ Tech Stack
+`Python` • `NumPy` • `Pandas` • `scikit-learn` • `Flask` • `LangChain` • `Hugging Face` • `Matplotlib`
 
 ---
 
@@ -33,14 +35,7 @@ Python • NumPy • Pandas • scikit-learn • Flask • LangChain • Hugging
 
 ---
 
-### 🧩 Featured Project
-🧠 [*Urdu-PDF-Summarizer-Q-A-Chatbot*](https://github.com/syedibrahimdev/Urdu-PDF-Summarizer-Q-A-Chatbot)  
-An intelligent Urdu PDF assistant built with **Streamlit** and **Google Gemini**, capable of sumarizing and answering questions directly from uploaded Urdu PDFs.  
-*Tech:* Python, Streamlit, Google Gemini, pdfplumber, clean-text
-
----
-
-### 📫 Connect with Me
+### 🤝 Connect with Me
 [💼 LinkedIn](https://www.linkedin.com/in/syed-ibrahim-ahmed-6aa304247) • [📧 Email](mailto:ibooo786@hotmail.com)
 
 ---

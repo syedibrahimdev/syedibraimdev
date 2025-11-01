@@ -36,7 +36,7 @@ Python • NumPy • Pandas • scikit-learn • Flask • LangChain • Transfo
 ---
 
 ### 🤝 Connect with Me
-[💼 LinkedIn](https://www.linkedin.com/in/syed-ibrahim-ahmed-6aa304247) • [📧 Email](mailto:ibooo786@hotmail.com)
+[💼 LinkedIn](https://www.linkedin.com/in/syed-ibrahim-ahmed-6aa304247) • [📧 Email](mailto:syedibrahimahmed27@gmail.com)
 
 ---
 

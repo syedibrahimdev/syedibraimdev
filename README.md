@@ -1,44 +1,74 @@
-# 👋 Hi, I'm Syed Ibrahim Ahmed  
-🎓 Student @ Iqra University | 🚀 AI Engineer in Progress  
+# Hi, I'm Syed Ibrahim Ahmed 👋
 
-I’m passionate about **building intelligent systems** that solve real-world problems using **Artificial Intelligence**, **Machine Learning**, and **Data Science**.  
-Driven by curiosity and a hunger for innovation. I’m currently focused on becoming a **AI Engineer** — from Python to Generative AI.
-
----
-
-## 🚀 Current Projects
-
-### 🧠 [*Urdu-PDF-Summarizer-Q-A-Chatbot*](https://github.com/syedibrahimdev/Urdu-PDF-Summarizer-Q-A-Chatbot)
-An intelligent Urdu PDF assistant that can *summarize documents* and *answer contextual questions* using NLP and Transformer-based models.  
-*Tech:* Python, LangChain, Transformers, Flask, Hugging Face  
-> Goal: To make AI tools accessible for Urdu-speaking learners.
+AI Engineer in Progress | Python | Machine Learning | Generative AI
+Computer Science Student @ Iqra University, Karachi
 
 ---
 
-## 🧩 Learning Path
-- Python for AI and Data Science  
-- Machine Learning Algorithms & Model Evaluation  
-- Deep Learning (ANNs, CNNs, RNNs)  
-- Data Preprocessing & Visualization  
-- Generative AI (LLMs, LangChain, Prompt Engineering)
+## About Me
+
+I build intelligent systems that solve real-world problems.
+Currently in my final year, focused on multi-agent AI architectures,
+LLM-powered applications, and production-ready ML pipelines.
+I care about shipping things that actually work — not just notebooks.
 
 ---
 
-## ⚙️ Tech Stack
-Python • NumPy • Pandas • scikit-learn • Flask • LangChain • Transformers • Matplotlib
+## What I'm Building
+
+**AgentVoice AI** *(Final Year Project)*
+An intelligent multi-agent voice automation system designed to replace
+traditional IVR with context-aware AI agents. Built with Twilio,
+RAG pipelines, Redis, PostgreSQL, and real-time WebSocket streaming.
+Features specialized agents for sales, billing, and service routing.
 
 ---
 
-### 📈 GitHub Stats
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedibrahimdev&show_icons=true&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedibrahimdev&layout=compact&theme=tokyonight)
+## Projects
+
+**Dream House Price Predictor**
+End-to-end ML pipeline on a 79-feature dataset.
+Achieved 0.93 R² using a tuned XGBoost Regressor with a
+Scikit-learn preprocessing pipeline. Deployed via Streamlit.
+→ github.com/syedibrahimdev/Dream-House-Price-Predictor
+
+**Urdu PDF Summarizer & Q&A Chatbot**
+Multilingual (Urdu/English) document assistant.
+Handles complex Urdu text normalization and answers contextual
+queries from PDFs using Google Gemini API.
+→ github.com/syedibrahimdev/Urdu-PDF-Summarizer-Q-A-Chatbot
+
+**GlobalPath AI**
+Python-based MVP for intelligent scholarship recommendations.
+Helps students discover relevant international opportunities
+using a custom scoring system.
+→ github.com/syedibrahimdev/GlobalPath-AI
 
 ---
 
-### 🤝 Connect with Me
-[💼 LinkedIn](https://www.linkedin.com/in/syed-ibrahim-ahmed-6aa304247) • [📧 Email](mailto:syedibrahimahmed27@gmail.com)
+## Tech Stack
+
+Languages:   Python · Java · SQL · JavaScript
+ML/AI:       Scikit-learn · XGBoost · TensorFlow · NLP · RAG Pipelines
+GenAI:       Google Gemini API · CrewAI · LangChain · Prompt Engineering
+Deployment:  Streamlit · FastAPI · Docker · Git/GitHub
+Databases:   PostgreSQL · Redis
+Other:       Twilio · WebSockets · Jupyter
 
 ---
 
-### 💡 Motto
-> “The goal is not to look smart — it’s to become capable.”
+## Certifications
+
+- Machine Learning Specialization — DeepLearning.AI & Stanford (Coursera)
+- Programming for Everybody — University of Michigan (Coursera)
+
+---
+
+## Connect
+
+LinkedIn → linkedin.com/in/syed-ibrahim-ahmed-6aa304247
+Email    → syedibrahimahmed27@gmail.com
+
+---
+
+"The goal is not to look smart — it's to become capable."
